@@ -67,5 +67,6 @@ int main(int argc, char const *argv[])
     file_i_o();
     
     cout << 1;
+    cout << 2;
     return 0;
 }
