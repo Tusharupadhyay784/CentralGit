@@ -64,6 +64,6 @@ void file_i_o()
 int main(int argc, char const *argv[])
 {
     file_i_o();
-
+    cout << 1;
     return 0;
 }
